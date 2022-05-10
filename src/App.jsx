@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import countapi from "countapi-js";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { v4 as uuidv4 } from "uuid";
