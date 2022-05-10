@@ -26,9 +26,6 @@
     This is a React Project!
     <br />
 
-    <br />
-    <br />
-
   </p>
 </div>
 
