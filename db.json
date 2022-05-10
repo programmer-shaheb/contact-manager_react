@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Mike J",
+      "email": "mike@rediffmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Maximum",
+      "email": "max@yahoo.com"
+    },
+    {
+      "id": "5",
+      "name": "Akash",
+      "email": "amit@gmail.com"
+    }
+  ]
+}
