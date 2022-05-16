@@ -62,6 +62,12 @@
 
 ## Getting Started
 
+- This app is based on CRUD operations
+- Add new person, Delete person from the contact list, update contact info & also delete the contact
+- For fake data, I'm using JSON Server.
+- Semantic UI for styling.
+- Used class component & functional component
+
 ### Prerequisites
 
 Install the dependencies:
